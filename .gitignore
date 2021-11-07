@@ -23,3 +23,9 @@
 hs_err_pid*
 .DS_Store
 HELP.md
+.classpath
+.project
+*.prefs
+*.properties
+*.MF
+target/classes/META-INF/maven/com.assglobal.esms/esms-interceptor/pom.xml
